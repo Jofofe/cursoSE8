@@ -1,4 +1,4 @@
-package br.com.cursoSE8JavaBasico.variaveis;
+package br.com.javaBasico.variaveis;
 
 public class FabricaTeste {
 	

@@ -1,4 +1,4 @@
-package br.com.cursoSE8JavaBasico.metodosStaticos;
+package br.com.javaBasico.metodosStaticos;
 
 public class CursoTEste {
 

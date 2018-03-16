@@ -1,6 +1,6 @@
-package br.com.cursoSE8JavaBasico.declaracaoClasse;
+package br.com.javaBasico.declaracaoClasse;
 
-import br.com.cursoSE8JavaBasico.declaracaoClasse.testeOutroPacote.CachorroExterno;
+import br.com.javaBasico.declaracaoClasse.testeOutroPacote.CachorroExterno;
 
 /*
  * Autor João Felippe

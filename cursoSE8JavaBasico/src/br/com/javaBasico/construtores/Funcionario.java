@@ -1,4 +1,4 @@
-package br.com.cursoSE8JavaBasico.construtores;
+package br.com.javaBasico.construtores;
 
 public class Funcionario {
 	String nome;

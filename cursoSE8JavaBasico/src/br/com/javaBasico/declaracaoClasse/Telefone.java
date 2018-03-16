@@ -1,4 +1,4 @@
-package br.com.cursoSE8JavaBasico.declaracaoClasse;
+package br.com.javaBasico.declaracaoClasse;
 
 public class Telefone implements IModelo {
 

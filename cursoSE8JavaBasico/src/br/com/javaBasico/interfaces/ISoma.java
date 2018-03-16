@@ -1,4 +1,4 @@
-package br.com.cursoSE8JavaBasico.interfaces;
+package br.com.javaBasico.interfaces;
 
 public interface ISoma extends IValorDePi, IOutraInterface {
 	
