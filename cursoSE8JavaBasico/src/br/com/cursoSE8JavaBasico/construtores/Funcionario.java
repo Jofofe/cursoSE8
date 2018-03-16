@@ -23,4 +23,5 @@ public class Funcionario {
 		this.cpf = 456789;
 	}
 	
+	
 }
