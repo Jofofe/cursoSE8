@@ -1,7 +1,5 @@
 package br.com.javaBasico.tiposDados;
 
-import br.com.javaBasico.modificadoresAcesso.Carro;
-
 public class Variavel {
 	
 	int ano;
